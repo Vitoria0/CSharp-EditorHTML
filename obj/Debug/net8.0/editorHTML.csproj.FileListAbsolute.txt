@@ -1,0 +1,14 @@
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\bin\Debug\net8.0\editorHTML.exe
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\bin\Debug\net8.0\editorHTML.deps.json
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\bin\Debug\net8.0\editorHTML.runtimeconfig.json
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\bin\Debug\net8.0\editorHTML.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\bin\Debug\net8.0\editorHTML.pdb
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\editorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\editorHTML.AssemblyInfoInputs.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\editorHTML.AssemblyInfo.cs
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\editorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\editorHTML.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\refint\editorHTML.dll
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\editorHTML.pdb
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\editorHTML.genruntimeconfig.cache
+C:\Users\Vitoria.Machado\Documents\Estudos\.NET\editorHTML\obj\Debug\net8.0\ref\editorHTML.dll
